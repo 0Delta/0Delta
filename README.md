@@ -1,4 +1,4 @@
-> < Um. Hi. My name’s Kiki, and I’m a tailor. And this is 0Delta. He’s Engineer. 
+> ![kiki.png](./kiki.png "kiki.png") < Um. Hi. My name’s Kiki, and I’m a tailor. And this is 0Delta. He’s Engineer. 
 
 # 0Delta
 
