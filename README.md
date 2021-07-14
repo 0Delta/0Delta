@@ -2,60 +2,43 @@
 
 # 0Delta
 
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0delta&exclude_repo=dotfiles_20201102)
+![github stats](https://github-readme-stats.vercel.app/api?username=0delta&show_icons=true&count_private=true&line_height=40)
+
 ## tech stack
 
 ### Language
 Main
-+ Japanese
++ Japanese / (a little)English
 + Go
 + Python
-+ C/C++/C#
++ C / C++ / C#
 + Bash
++ HTML / CSS
++ Java / kotlin
++ JavaScript / TypeScript
+... and more !
 
-Sub
-+ English
-+ Ruby
-+ VB
-+ HTML/CSS
-+ JavaScript
-+ TypeScript
-+ Java
-+ PHP
-+ SQL
-+ Lua
+### Cloud Computing
 
-### Cloud
+GCP
++ GKE / Cloud Run / GCE
++ GAE / Firebase
++ Function / Cloud Build
++ BigQuery
 
-+ GCP
-	+ GKE
-	+ GAE
-	+ Firebase
-	+ GCE
-	+ Function
-	+ Cloud Build
-	+ Cloud Run
-	+ BigQuery
-	+ Dataflow
-
-+ AWS
-	+ EC2
-	+ Lambda
+AWS
++ EC2 / Lambda
 
 ### Frameworks
 
-+ Unity
-+ cocos2d-x
-+ .NET Framework
-+ Unreal Engine
-+ DirectX
-+ OpenGL
-+ Vue.js
-+ Echo
++ Vue.js / Echo
++ Unity / Unreal Engine / cocos2d-x
 
 ### Tools
 
-+ Vim
-+ WSL2
++ Vim / WSL2
++ CLIP STUDIO PAINT / Live2D
 
 ----
 > Kiki is we orignal character.
