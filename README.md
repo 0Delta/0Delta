@@ -41,7 +41,7 @@ AWS
 + CLIP STUDIO PAINT / Live2D
 
 ----
-> Kiki is we orignal character.
-> I create profile and designed by my wife.
+> Kiki is our original character.
+> I created a profile and my wife designed it.
 
 > More Information is [here](https://twoq.jp/list/chara.php?id=crc_0058)
